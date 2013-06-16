@@ -11,9 +11,5 @@
     "type": "git",
     "url": "https://github.com/AdaRoseEdwards/MiniatureCyril.git"
   },
-  "license": "GNU General Public License",
-  "subdomain": "MiniatureCyril",
-  "engines": {
-    "node": "0.8.x"
-  }
+  "license": "GNU General Public License"
 }
