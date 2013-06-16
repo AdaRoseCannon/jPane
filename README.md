@@ -1,5 +1,3 @@
-Live version: http://miniaturecyril.nodejitsu.com
-
 jPane
 =====
 
